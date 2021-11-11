@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.5",
+    "jquery": "^3.6.0",
+    "node-fetch": "^2.6.1",
+    "stopword": "^1.0.7",
+    "synonyms": "^1.0.1"
+  }
+}

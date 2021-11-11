@@ -1,0 +1,23 @@
+body{
+	background-color: #fc5603;
+}
+
+#ikinciKisimSonuclariYazisi
+{
+	font-size: 100px;
+}
+
+#ikinciKisimEkrani
+{	
+	flex-direction: column;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.ikinciKisimYeniParagraf
+{
+	font-size: 30px;
+	margin: 15px;
+	background-color: #03fcca;
+}

@@ -1,0 +1,107 @@
+body
+{
+	background-color: #72f542;
+}
+
+#dorduncuKisimEkrani
+{
+	display: flex;
+	margin-top: 300px;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+}
+
+#anaSiteGirisAlani
+{
+	margin: 50px;
+}
+
+.dorduncuKisimText
+{
+	margin: 10px;
+	font-size: 20px;
+	color: #7542f5;
+}
+
+#anaSiteText,#siteKumesiText
+{
+	width: 200px;
+	height: 30px;
+}
+
+.buton
+{
+	width: 100px;
+	height: 50px;
+	background-color: #f59342;
+	margin: 10px;
+}
+
+#sonucEkrani
+{
+	display: none;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+}
+
+.birinciDiv,.ikinciDİv,.ucuncuDiv
+{
+	flex-direction: column;
+}
+
+.anaSiteParagraf
+{
+	background-color: #36ebd6;
+	font-size: 100px;
+}
+
+.birinciDiv
+{
+	margin: 30px;
+	background-color: #be36eb;
+	border-color: black;
+	border-width: 2px;
+	border-style: solid;
+}
+
+.totalSkorParagraf
+{
+	font-size: 40px;
+}
+
+.birinciParagraf
+{
+	background-color: #fc4103;
+}
+
+.ikinciParagraf
+{
+	background-color: #fc7b03;
+	margin-left: 10px;
+}
+
+.ucuncuParagraf
+{
+	background-color: #ebdb36;
+	margin-left: 20px;
+}
+
+.anahtarKelimeParagraf1
+{
+	background-color: white;
+
+}
+
+.anahtarKelimeParagraf2
+{
+	background-color: white;
+	margin-left: 10px;
+}
+
+.anahtarKelimeParagraf3
+{
+	background-color: white;
+	margin-left: 20px;
+}

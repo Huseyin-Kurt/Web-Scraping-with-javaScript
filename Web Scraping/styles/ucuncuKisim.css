@@ -1,0 +1,41 @@
+body
+{
+	background-color: #83a832;
+}
+
+#ucuncuKisimEkrani
+{
+	display: none;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+}
+
+.ucuncuKisimYeniParagraf
+{
+	font-size: 30px;
+	margin: 15px;
+	background-color: #d90909;
+}
+
+.button
+{
+	width: 150px;
+	height: 100px;
+	border-style: solid;
+	border-width: 1px;
+	border-color: black;
+	margin: 20px;
+	background-color: #3259a8;
+}
+
+p{
+	margin: 50px;
+	font-size: 40px;
+}
+
+.anahtarKelimeEkrani
+{
+	display: none;
+	flex-direction: column;
+}

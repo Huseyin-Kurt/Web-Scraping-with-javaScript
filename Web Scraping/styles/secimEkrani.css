@@ -1,0 +1,36 @@
+body
+{
+	background-color: #eb3492;
+}
+
+#secimEkrani
+{	
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+.secimEkraniButonu
+{
+	width: 200px;
+	height: 80px;
+	margin: 30px;
+	background-color: #a4eb34;
+	border-width: 1px;
+	border-style: solid;
+	border-color: black;
+}
+
+#adYerleri
+{	
+	display: flex;
+	flex-direction: row;
+	background-color: #34ebc0
+}
+
+.ad
+{
+	margin: 30px;
+	font-size: 20px;
+}

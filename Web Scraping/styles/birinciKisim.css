@@ -1,0 +1,37 @@
+#birinciKisimEkrani
+{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin-top: 100px;
+	flex-direction: column;
+}
+
+#birinciKisimSonuclari
+{
+	background-color: #f5190a;
+	height: 500px;
+	width: 600px;
+	overflow-x: hidden;
+	overflow-y: auto;
+	border-width: 2px;
+	border-style: solid;
+	border-color: #52fc03;
+}
+
+.birinciKisimYeniParagraf
+{
+	font-size: 70px;
+	margin: 10px;
+	color: #77a832;
+}
+
+#birinciKisimSonuclarYazisi
+{
+	font-size: 100px;
+}
+
+body
+{
+	background-color: #424ef5;
+}
